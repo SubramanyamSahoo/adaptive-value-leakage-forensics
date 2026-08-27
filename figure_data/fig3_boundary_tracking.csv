@@ -1,0 +1,5 @@
+boundary_level,population_boundary,incentive,population_median,ci_low,ci_high,n
+Low,116600.0,below_good,116600.0,116000.0,117500.0,23
+Low,116600.0,above_good,116700.0,115000.0,118300.0,21
+High,120275.00063091483,below_good,117500.0,116500.0,118300.0,23
+High,120275.00063091483,above_good,118200.0,117000.0,120000.0,23

@@ -1,0 +1,15 @@
+metric,value
+free_pilot_directional_leakage,0.16666666666666674
+relevant_clamp_directional_leakage,0.49999999999999994
+irrelevant_clamp_directional_leakage,0.3333333333333333
+relevant_minus_irrelevant_leakage,0.16666666666666663
+carrier_rel_minus_irr_log_delta,-0.7680112339034499
+carrier_rel_minus_irr_ci_low,-1.6735167691186223
+carrier_rel_minus_irr_ci_high,0.0
+migration_rel_minus_irr_log_delta,-0.011031006373869445
+boundary_tracking_ratio,0.3265305561869468
+boundary_tracking_bootstrap_median,0.28843532463180305
+boundary_tracking_ci_low,-0.09251699091963493
+boundary_tracking_ci_high,0.6666665522150165
+mean_population_crossing_effect,0.04451345755693582
+mean_final_answer_crossing_effect,0.08333333333333333
